@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FlMonkey
 - 👀 I’m interested in Video Games and Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
+- 🐍 Fluent in python
 - 💞️ I’m looking to collaborate on ... Nothing lol
 - 📫 How to reach me ... u/FloppyMonkey07 on reddit, Bjol on discord
 
